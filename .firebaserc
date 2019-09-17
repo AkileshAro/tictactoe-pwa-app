@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todoapp-481c7": {
+      "hosting": {
+        "tic-tac-toe": [
+          "todoapp-481c7"
+        ]
+      }
+    }
+  }
+}
