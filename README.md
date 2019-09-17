@@ -1,3 +1,5 @@
+Visit https://todoapp-481c7.firebaseapp.com/ to check the demo. You can add it to your mobile homescreen or use it on your desktop as a regular application.
+
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
